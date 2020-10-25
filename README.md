@@ -2,7 +2,7 @@
 
 ![KaiAuth icon](img/icons/app_112.png)
 
-KaiAuth is a simple Google Authenticator alternative on KaiOS.
+KaiAuth is a simple TOTP Authenticator for KaiOS.
 
 # Screenshots
 
